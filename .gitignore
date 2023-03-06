@@ -1,0 +1,5 @@
+#dataset file
+*new_articles.csv
+*sample_articles.txt
+*.ipynb_checkpoints
+venv
