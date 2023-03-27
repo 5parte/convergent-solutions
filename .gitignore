@@ -2,4 +2,10 @@
 *new_articles.csv
 *panel_surveys
 *.ipynb_checkpoints
+*Roberta Results.docx
+*logs
+*panel_surveys
+*results
+*tmp_trainer
+*for_chatGPT.csv
 venv
